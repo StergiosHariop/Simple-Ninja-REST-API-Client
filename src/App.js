@@ -1,4 +1,3 @@
-import "./App.css";
 import React, { useRef, useState } from 'react';
 import Render from "./Components/Render";
 import Title from "./Components/Title";
